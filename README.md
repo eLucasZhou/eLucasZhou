@@ -76,6 +76,6 @@ When I’m not coding, I’m usually learning, refining systems, and exploring n
 
 <h2>Let’s connect 🤝</h2>
 <ul>
-  <li>GitHub: https://github.com/YOUR_GITHUB_USERNAME</li>
-  <li>LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN</li>
+  <li>GitHub: https://github.com/eLucasZhou</li>
+  <li>LinkedIn: https://www.linkedin.com/in/lucazh</li>
 </ul>
