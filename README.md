@@ -63,13 +63,3 @@ I care deeply about reliability, developer productivity, and shipping production
   <li>Built automation tooling to streamline internal engineering workflows</li>
   <li>Integrated AI coding assistants into real engineering environments</li>
 </ul>
-
----
-
-<h2>Let’s Connect 🤝</h2>
-
-<ul>
-  <li>GitHub: https://github.com/jonarnic</li>
-  <li>LinkedIn: https://linkedin.com/in/jonaric</li>
-  <li>Email: dogoodarnic@gmail.com</li>
-</ul>
